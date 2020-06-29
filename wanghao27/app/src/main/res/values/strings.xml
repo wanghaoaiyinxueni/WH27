@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">wanghao27</string>
+    <string name="my_name">王昊</string>
+    <string name="hint_username">请输入用户名</string>
+    <string name="hint_password">请输入密码</string>
+    <string name="btn_login">登录</string>
+    <string name="txt_zhu">注册</string>
+    <string name="txt_wang">忘记密码</string>
+
+</resources>
